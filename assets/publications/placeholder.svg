@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+  <title id="title">Publication placeholder</title>
+  <desc id="desc">Placeholder image for publication figure</desc>
+  <rect width="800" height="450" fill="#e2e8f0"/>
+  <rect x="60" y="60" width="680" height="330" rx="18" fill="#f8fafc" stroke="#cbd5e1" stroke-width="4"/>
+  <text x="400" y="210" text-anchor="middle" font-size="42" fill="#1e293b" font-family="Arial, sans-serif">Publication Figure</text>
+  <text x="400" y="265" text-anchor="middle" font-size="24" fill="#475569" font-family="Arial, sans-serif">Replace with paper image later</text>
+</svg>
